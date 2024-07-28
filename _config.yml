@@ -1,0 +1,23 @@
+title: Michelle Ho
+email: michelle.y.ho@gmail.com
+description: Software Engineer - Python
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: dark
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/michelleyho
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/michelle-ho-0999161a
+  - name: Résumé
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./assets/files/michelle_ho_july_2024.pdf
