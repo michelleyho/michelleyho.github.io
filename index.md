@@ -1,6 +1,6 @@
 ## About Me
 [LinkedIn Profile](https://www.linkedin.com/in/michelle-ho-0999161a)  
-
+[Resume](https://github.com/michelleyho/michelleyho.github.io/blob/main/assets/resumes/july_2024.pdf)
 ## Professional Experience
 <h3 style="margin-bottom:2px;">Intel </h3>
 <p style="margin:0;"><b>Software Engineer</b><br>
