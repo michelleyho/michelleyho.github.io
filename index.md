@@ -29,7 +29,7 @@ January 2016- Present</p>
 ## Volunteer Work
 <h3 style="margin-bottom:2px;">Intel AI for Good</h3>
 <p style="margin:0;"><b>Flask Developer </b><br>
-018</p>
+</p>
 <ul style="margin-left: -1.4em;">
   <li></li>
 </ul>
