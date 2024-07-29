@@ -1,5 +1,14 @@
 [LinkedIn](https://www.linkedin.com/in/michelle-ho-0999161a)  [Resume](https://github.com/michelleyho/michelleyho.github.io/blob/main/assets/resumes/july_2024.pdf)
 [Blog](https://michelleyho.github.io/blog/)
+
+## Leadership Experience
+<h3 style="margin-bottom:2px;">Women Who Code - Silicon Valley Chapter </h3>
+<p style="margin:0;"><b>Director, Leader, Volunteer</b><br>
+January 2016- Present</p>
+<ul style="margin-left: -1.4em;">
+  <li></li>
+</ul>
+
 ## Professional Experience
 <h3 style="margin-bottom:2px;">Intel </h3>
 <p style="margin:0;"><b>Software Engineer</b><br>
@@ -16,13 +25,6 @@ July 2011 - January 2017/p>
 </ul>
 
 
-## Leadership Experience
-<h3 style="margin-bottom:2px;">Women Who Code - Silicon Valley Chapter </h3>
-<p style="margin:0;"><b>Director, Leader, Volunteer</b><br>
-January 2016- Present</p>
-<ul style="margin-left: -1.4em;">
-  <li></li>
-</ul>
 
 ## Volunteer Work
 <h3 style="margin-bottom:2px;">Intel AI for Good</h3>
