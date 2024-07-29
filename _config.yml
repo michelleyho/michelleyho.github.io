@@ -4,6 +4,11 @@ description: Software Engineer - Python
 favicon: true
 theme: jekyll-theme-minimal
 
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
 
 platforms:
   - name: GitHub
