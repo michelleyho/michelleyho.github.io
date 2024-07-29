@@ -2,7 +2,7 @@ title: Michelle Ho
 email: michelle.y.ho@gmail.com
 description: Software Engineer - Python
 favicon: true
-
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
