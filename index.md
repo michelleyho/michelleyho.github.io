@@ -15,7 +15,7 @@ July 2011 - January 2017/p>
   <li></li>
 </ul>
 
----
+
 ## Leadership Experience
 <h3 style="margin-bottom:2px;">Women Who Code - Silicon Valley Chapter </h3>
 <p style="margin:0;"><b>Director, Leader, Volunteer</b><br>
