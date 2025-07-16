@@ -36,7 +36,7 @@ Summer 2007</p>
 ## Leadership Experience
 <h3 style="margin-bottom:2px;">Women Who Code - Silicon Valley Chapter </h3>
 <p style="margin:0;"><b>Director, Leader, Volunteer</b><br>
-2016- 2024</p>
+2016 - 2024</p>
 <ul style="margin-left: -1.4em;">
 </ul>
 
