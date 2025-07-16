@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/michelle-ho-0999161a)  [Resume](https://github.com/michelleyho/michelleyho.github.io/blob/main/assets/resumes/july_2024.pdf)
+[LinkedIn](https://www.linkedin.com/in/michelleyho/)  [Resume](https://github.com/michelleyho/michelleyho.github.io/blob/main/assets/resumes/MichelleHo_Resume_July_2025.pdf)
 [Blog](https://michelleyho.github.io/blog/)
 [Portfolio](https://michelleyho.github.io/portfolio/))
 
