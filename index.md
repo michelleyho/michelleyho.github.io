@@ -44,6 +44,6 @@ Summer 2007</p>
 ## Volunteer Work
 <h3 style="margin-bottom:2px;">Intel AI for Good</h3>
 <p style="margin:0;"><b>Flask Developer </b><br>
-</p>
+2019 </p>
 <ul style="margin-left: -1.4em;">
 </ul>
