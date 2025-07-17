@@ -1,4 +1,4 @@
-![Profile Pic](assets/images/profile_pic.jpeg)
+<img src="assets/images/profile_pic.jpeg" alt="Profile Picture" width="200">
 <br>
 [LinkedIn](https://www.linkedin.com/in/michelleyho/)  [Resume](https://github.com/michelleyho/michelleyho.github.io/blob/main/assets/resumes/MichelleHo_Resume_July_2025.pdf)
 [Blog](https://michelleyho.github.io/blog/)
